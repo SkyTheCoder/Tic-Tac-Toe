@@ -5,7 +5,7 @@ A simple Tic-Tac-Toe program in Java
 
 [Compiled .EXE](http://skystudioapps.com/file/tictactoe/TicTacToe.exe)
 
-[Mac OS X .APP Contents](http://skystudioapps.com/file/tictactoe/Contents.zip)
+[Compiled .APP](http://skystudioapps.com/file/tictactoe/TicTacToe.app.zip)
 
 [Linux 32-bit](http://skystudioapps.com/file/tictactoe/linux32.zip)
 
